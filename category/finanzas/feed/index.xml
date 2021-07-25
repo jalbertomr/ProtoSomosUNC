@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Finanzas &#8211; Universidad Nueva Ciencia</title>
-	<atom:link href="/jalbertomr.github.io/protoSomosUNC/category/finanzas/feed/" rel="self" type="application/rss+xml" />
-	<link>/jalbertomr.github.io/protoSomosUNC</link>
+	<atom:link href="https:///jalbertomr.github.io/protoSomosUNC/category/finanzas/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///jalbertomr.github.io/protoSomosUNC</link>
 	<description></description>
 	<lastBuildDate>Fri, 23 Jul 2021 14:41:27 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>/jalbertomr.github.io/protoSomosUNC/wp-content/uploads/2021/07/cropped-cropped-UNC-PNG-03.png-al75-32x32.png</url>
+	<url>https:///jalbertomr.github.io/protoSomosUNC/wp-content/uploads/2021/07/cropped-cropped-UNC-PNG-03.png-al75-32x32.png</url>
 	<title>Finanzas &#8211; Universidad Nueva Ciencia</title>
-	<link>/jalbertomr.github.io/protoSomosUNC</link>
+	<link>https:///jalbertomr.github.io/protoSomosUNC</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

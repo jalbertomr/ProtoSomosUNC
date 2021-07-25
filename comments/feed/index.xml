@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Universidad Nueva Ciencia	</title>
-	<atom:link href="/jalbertomr.github.io/protoSomosUNC/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/jalbertomr.github.io/protoSomosUNC</link>
+	<atom:link href="https:///jalbertomr.github.io/protoSomosUNC/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///jalbertomr.github.io/protoSomosUNC</link>
 	<description></description>
 	<lastBuildDate>Fri, 23 Jul 2021 14:41:27 +0000</lastBuildDate>
 	<sy:updatePeriod>

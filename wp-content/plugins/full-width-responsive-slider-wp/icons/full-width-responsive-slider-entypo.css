@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'entypo';
-  src: url('/jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.eot');
-  src: url('/jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.eot#iefix') format('embedded-opentype'),
-       url('/jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.woff') format('woff'),
-       url('/jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.ttf') format('truetype'),
-       url('/jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.svg#entypo') format('svg');
+  src: url('https:///jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.eot');
+  src: url('https:///jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.eot#iefix') format('embedded-opentype'),
+       url('https:///jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.woff') format('woff'),
+       url('https:///jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.ttf') format('truetype'),
+       url('https:///jalbertomr.github.io/protoSomosUNC/wp-content/plugins/full-width-responsive-slider-wp/icons/entypo.svg#entypo') format('svg');
   font-weight: normal; font-style: normal;
 }
 

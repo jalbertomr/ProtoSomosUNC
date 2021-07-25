@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en: Inicio	</title>
-	<atom:link href="/jalbertomr.github.io/protoSomosUNC/pagina-ejemplo/feed/" rel="self" type="application/rss+xml" />
-	<link>/jalbertomr.github.io/protoSomosUNC</link>
+	<atom:link href="https:///jalbertomr.github.io/protoSomosUNC/pagina-ejemplo/feed/" rel="self" type="application/rss+xml" />
+	<link>https:///jalbertomr.github.io/protoSomosUNC</link>
 	<description></description>
 	<lastBuildDate>Fri, 23 Jul 2021 14:38:07 +0000</lastBuildDate>
 	<sy:updatePeriod>
